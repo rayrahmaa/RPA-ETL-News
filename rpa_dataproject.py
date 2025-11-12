@@ -98,9 +98,9 @@ if data_berita:
     print(f"\nSukses! Data dibersihkan dan disimpan ke: {file_output}")
 
     try:
-            SENDER_EMAIL = 'rhynurrahma@gmail.com'
-            APP_PASSWORD = 'atsebufypqaqwcfx ' 
-            RECEIVER_EMAIL = 'rhynurrahma@gmail.com' 
+            SENDER_EMAIL = 'akungmail@gmail.com'
+            APP_PASSWORD = 'gantipassword' 
+            RECEIVER_EMAIL = 'akungmail@gmail.com' 
 
             yag = yagmail.SMTP(SENDER_EMAIL, APP_PASSWORD)
             
@@ -122,4 +122,5 @@ if data_berita:
     print("-" * 25)
     print(df[['Judul', 'URL', 'Tanggal_Publikasi_Mentah', 'Kategori_Fokus']].head())    
 else:
+
     print("Data kosong, tidak ada laporan yang dihasilkan.")
