@@ -45,7 +45,5 @@ Catatan: Skrip ini akan otomatis membuka jendela browser Chrome baru (dikontrol 
 ### 6. Setelah skrip rpa_dataproject.py selesai dieksekusi, data yang diambil akan disimpan sebagai file laporan di direktori proyek ini:
 Nama File: Laporan_Berita_Teknologi.xlsx
 
-## Dashboard Data
+### 7. Dashboard Data Sederhana dari Laporan Berita Teknologi
 <img width="1653" height="993" alt="Kategori Fokus Pie Chart" src="https://github.com/user-attachments/assets/f3edcc8d-c39b-4162-97fc-97f3d4c71b86" />
-
-## Manual User
